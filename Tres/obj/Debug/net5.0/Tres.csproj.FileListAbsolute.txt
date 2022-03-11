@@ -1,5 +1,0 @@
-C:\bibi\C#\treinamento\Tres\obj\Debug\net5.0\Tres.csproj.AssemblyReference.cache
-C:\bibi\C#\treinamento\Tres\obj\Debug\net5.0\Tres.GeneratedMSBuildEditorConfig.editorconfig
-C:\bibi\C#\treinamento\Tres\obj\Debug\net5.0\Tres.AssemblyInfoInputs.cache
-C:\bibi\C#\treinamento\Tres\obj\Debug\net5.0\Tres.AssemblyInfo.cs
-C:\bibi\C#\treinamento\Tres\obj\Debug\net5.0\Tres.csproj.CoreCompileInputs.cache
