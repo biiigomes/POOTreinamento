@@ -1,0 +1,5 @@
+C:\bibi\C#\treinamento\Seis\obj\Debug\net5.0\Seis.csproj.AssemblyReference.cache
+C:\bibi\C#\treinamento\Seis\obj\Debug\net5.0\Seis.GeneratedMSBuildEditorConfig.editorconfig
+C:\bibi\C#\treinamento\Seis\obj\Debug\net5.0\Seis.AssemblyInfoInputs.cache
+C:\bibi\C#\treinamento\Seis\obj\Debug\net5.0\Seis.AssemblyInfo.cs
+C:\bibi\C#\treinamento\Seis\obj\Debug\net5.0\Seis.csproj.CoreCompileInputs.cache
