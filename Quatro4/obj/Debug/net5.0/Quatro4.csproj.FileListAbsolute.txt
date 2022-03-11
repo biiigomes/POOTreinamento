@@ -1,0 +1,5 @@
+C:\bibi\C#\treinamento\Quatro4\obj\Debug\net5.0\Quatro4.csproj.AssemblyReference.cache
+C:\bibi\C#\treinamento\Quatro4\obj\Debug\net5.0\Quatro4.GeneratedMSBuildEditorConfig.editorconfig
+C:\bibi\C#\treinamento\Quatro4\obj\Debug\net5.0\Quatro4.AssemblyInfoInputs.cache
+C:\bibi\C#\treinamento\Quatro4\obj\Debug\net5.0\Quatro4.AssemblyInfo.cs
+C:\bibi\C#\treinamento\Quatro4\obj\Debug\net5.0\Quatro4.csproj.CoreCompileInputs.cache

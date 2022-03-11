@@ -1,0 +1,5 @@
+C:\bibi\C#\treinamento\Cinco\obj\Debug\net5.0\Cinco.csproj.AssemblyReference.cache
+C:\bibi\C#\treinamento\Cinco\obj\Debug\net5.0\Cinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\bibi\C#\treinamento\Cinco\obj\Debug\net5.0\Cinco.AssemblyInfoInputs.cache
+C:\bibi\C#\treinamento\Cinco\obj\Debug\net5.0\Cinco.AssemblyInfo.cs
+C:\bibi\C#\treinamento\Cinco\obj\Debug\net5.0\Cinco.csproj.CoreCompileInputs.cache

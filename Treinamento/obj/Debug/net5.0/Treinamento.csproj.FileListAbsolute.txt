@@ -1,0 +1,16 @@
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\Treinamento.csproj.AssemblyReference.cache
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\Treinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\Treinamento.AssemblyInfoInputs.cache
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\Treinamento.AssemblyInfo.cs
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\Treinamento.csproj.CoreCompileInputs.cache
+C:\bibi\C#\treinamento\Treinamento\bin\Debug\net5.0\Treinamento.exe
+C:\bibi\C#\treinamento\Treinamento\bin\Debug\net5.0\Treinamento.deps.json
+C:\bibi\C#\treinamento\Treinamento\bin\Debug\net5.0\Treinamento.runtimeconfig.json
+C:\bibi\C#\treinamento\Treinamento\bin\Debug\net5.0\Treinamento.runtimeconfig.dev.json
+C:\bibi\C#\treinamento\Treinamento\bin\Debug\net5.0\Treinamento.dll
+C:\bibi\C#\treinamento\Treinamento\bin\Debug\net5.0\ref\Treinamento.dll
+C:\bibi\C#\treinamento\Treinamento\bin\Debug\net5.0\Treinamento.pdb
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\Treinamento.dll
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\ref\Treinamento.dll
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\Treinamento.pdb
+C:\bibi\C#\treinamento\Treinamento\obj\Debug\net5.0\Treinamento.genruntimeconfig.cache
